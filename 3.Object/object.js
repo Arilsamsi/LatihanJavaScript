@@ -18,7 +18,7 @@ console.log(buah["nama"]); //keranjang/bracket
 
 const smartphone = {
     kamera: "10MP",
-    memori: "128GB",
+    memori: "128GB"
 }
 const fitur = "kamera";
 
